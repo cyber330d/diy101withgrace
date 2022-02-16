@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+  
+    <title> Diy101WithGrace </title>
+    
+  </head>
+  
+  <body>
+  
+    <div id="top">
+      <p>Hello! Kitchen and foodies!
+         how you guys and your taste buds doing?
+         welcome to our online cathering services.</p>
+    </div>
+    
+    <div id ="middle">
+      <p> post area </p>
+    </div>
+    
+    <div id="left">
+      <p> profile details </p>
+    </div>
+    
+    <div id="bottom">
+      <p> about and contact details </p>
+    </div>
+   
+  </body>
+  
+</html>
